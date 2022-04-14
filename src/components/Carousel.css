@@ -1,0 +1,25 @@
+.loading{
+    font-size: large;
+    color: red;
+}
+
+.wrapper{
+    width:80%;
+    margin: 0 auto;
+    padding:20px;
+    border:2px solid black;
+}
+
+.item{
+    object-fit: contain;
+    height:80vh;
+    width:auto;
+}
+
+.head{
+    color: black;
+}
+
+.caption{
+    color:black;
+}

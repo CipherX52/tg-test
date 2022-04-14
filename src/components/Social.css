@@ -1,0 +1,31 @@
+.social-wrapper {
+    background: powderblue;
+    padding: 25px 50px;
+}
+
+a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+a.social:hover {
+    transform: translateY(-1px);
+}
+
+a.github {
+    color: black;
+}
+  
+a.facebook {
+    color: #4968ad;
+}
+  
+a.twitter {
+    color: #49a1eb;
+}
+  
+a.instagram {
+    color: black;
+}
+
